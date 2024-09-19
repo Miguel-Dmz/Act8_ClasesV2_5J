@@ -2,7 +2,8 @@
 clases
 ## CLASES V2
 - codigo
-- ![image](https://github.com/user-attachments/assets/40aa73be-db53-465d-9885-e86ee1f38d4c)
+- ![image](https://github.com/user-attachments/assets/e5a8ce51-7203-4cf6-802f-4ca26828b432)
 - resultado
-- ![image](https://github.com/user-attachments/assets/a45f1462-27ba-4134-9909-a5e26f594527)
+- ![image](https://github.com/user-attachments/assets/04824320-9842-4206-84fc-66f57284658d)
+
 
